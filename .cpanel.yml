@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u1545300/public_html/
+    - /bin/cp -R Build $DEPLOYPATH
+    - /bin/cp -R StreamingAssets $DEPLOYPATH
+    - /bin/cp -R TemplateData $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
