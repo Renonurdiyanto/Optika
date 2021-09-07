@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ConvexMirror" size="1.000000 1.454545" />
+    <ImageTarget name="ConcaveMirror" size="1.000000 1.454545" />
+    <ImageTarget name="FlatMirror" size="1.000000 1.454545" />
+    <ImageTarget name="DiffuseMirror" size="1.000000 1.454545" />
+    <ImageTarget name="MagnifiyingGlass" size="1.000000 1.454545" />
+    <ImageTarget name="Binocular" size="1.000000 1.454545" />
+    <ImageTarget name="Telescope" size="1.000000 1.454545" />
+    <ImageTarget name="Eyes" size="1.000000 1.454545" />
+    <ImageTarget name="1Laser" size="1.000000 1.454545" />
+    <ImageTarget name="2Laser" size="1.000000 1.454545" />
+    <ImageTarget name="3Laser" size="1.000000 1.454545" />
+  </Tracking>
+</QCARConfig>

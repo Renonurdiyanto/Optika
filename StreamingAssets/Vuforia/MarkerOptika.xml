@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ConvexMirror" size="1.000000 1.000000" />
+    <ImageTarget name="ConcaveMirror" size="1.000000 1.000000" />
+    <ImageTarget name="FlatMirror" size="1.000000 1.000000" />
+    <ImageTarget name="diffuseMirror" size="1.000000 1.000000" />
+    <ImageTarget name="Loup" size="1.000000 1.000000" />
+    <ImageTarget name="Eyes" size="1.000000 1.000000" />
+    <ImageTarget name="Lup" size="1.000000 1.000000" />
+    <ImageTarget name="6Laser1inggris" size="1.000000 1.000000" />
+    <ImageTarget name="4Laser2Inggris" size="1.000000 1.000000" />
+    <ImageTarget name="1Laser3Inggris" size="1.000000 1.000000" />
+    <ImageTarget name="Teropong" size="1.000000 1.000000" />
+    <ImageTarget name="Mata" size="1.000000 1.000000" />
+    <ImageTarget name="Teleskop" size="1.000000 1.000000" />
+    <ImageTarget name="Laser1" size="1.000000 1.000000" />
+    <ImageTarget name="Laser2" size="1.000000 1.000000" />
+    <ImageTarget name="Laser3" size="1.000000 1.000000" />
+    <ImageTarget name="2CerminBaur" size="1.000000 1.000000" />
+    <ImageTarget name="3CerminDatar" size="1.000000 1.000000" />
+    <ImageTarget name="4CerminCekung" size="1.000000 1.000000" />
+    <ImageTarget name="6LensaCekung" size="1.000000 1.000000" />
+    <ImageTarget name="5CerminCembung" size="1.000000 1.000000" />
+    <ImageTarget name="7LensaCembung" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

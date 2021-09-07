@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144945518440",
+    "project_id": "gelombang-cahaya",
+    "storage_bucket": "gelombang-cahaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144945518440:android:8e8649662a21c9ffc9a8dd",
+        "android_client_info": {
+          "package_name": "com.company.reno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144945518440-p6ift6ropg8ho70igfe76g1eqh9cgi4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtwiIkHU4v4V2gJOq9Was07tJg25Adzzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144945518440-p6ift6ropg8ho70igfe76g1eqh9cgi4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

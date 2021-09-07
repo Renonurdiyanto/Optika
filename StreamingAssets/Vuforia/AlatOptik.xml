@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="kamera" size="1.000000 1.000782" />
+    <ImageTarget name="monkey" size="1.000000 1.000000" />
+    <ImageTarget name="telescope" size="1.000000 1.000000" />
+    <ImageTarget name="Teropong1" size="1.000000 1.000795" />
+    <ImageTarget name="teleskop1" size="1.000000 1.000782" />
+    <ImageTarget name="sepion" size="1.000000 0.999072" />
+    <ImageTarget name="persikop" size="1.000000 0.999178" />
+    <ImageTarget name="mikroskop" size="1.000000 1.000000" />
+    <ImageTarget name="kacamata" size="1.000000 1.000000" />
+    <ImageTarget name="fiberoptik" size="1.000000 1.000782" />
+    <ImageTarget name="cermin_datar" size="1.000000 1.000000" />
+    <ImageTarget name="binoc" size="1.000000 1.000000" />
+    <ImageTarget name="3berkasbaru" size="1.000000 0.997207" />
+    <ImageTarget name="cembung" size="1.000000 1.000000" />
+    <ImageTarget name="CERMINDATAR" size="2.000000 2.000000" />
+    <ImageTarget name="3berkas" size="1.000000 0.997207" />
+    <ImageTarget name="1laser" size="2.000000 1.994413" />
+    <ImageTarget name="cekung" size="1.000000 1.000000" />
+    <ImageTarget name="t2" size="1.000000 0.773065" />
+  </Tracking>
+</QCARConfig>

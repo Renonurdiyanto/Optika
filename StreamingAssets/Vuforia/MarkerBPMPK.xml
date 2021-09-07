@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MarkerCerminCembung" size="1.000000 1.499154" />
+    <ImageTarget name="MarkerParabola" size="1.000000 1.500000" />
+    <ImageTarget name="MarkerCerminCekung" size="1.000000 1.518613" />
+    <ImageTarget name="MarkerLensaCembung" size="1.000000 1.518613" />
+    <ImageTarget name="Markerlensacekung" size="1.000000 1.500000" />
+    <ImageTarget name="MarkerSudut" size="1.000000 1.569374" />
+    <ImageTarget name="Marker" size="1.000000 1.549069" />
+  </Tracking>
+</QCARConfig>
